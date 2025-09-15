@@ -1,4 +1,4 @@
-This app assists music teachers give lessons. Students can record directly into the website, and students and teachers can listen back in real time.
+This app assists music teachers in their lessons. Students can record directly into the website, and students and teachers can listen back together in real time.
 
 This may not sound like much, but as a music teacher, having this immediate feedback mechanism in a lesson is invaluable.
 
