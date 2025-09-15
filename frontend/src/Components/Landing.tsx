@@ -1,0 +1,4 @@
+
+export default function Landing() {
+  return <a href="http://localhost:3000/auth/google">Login with Google</a>
+}
